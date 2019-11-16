@@ -6810,13 +6810,12 @@ $dropq
 
 # Registers:
 "0	LINE	0
-	403
-<ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxZWw87pyEHqilROa49QIsD+L7AiBS4B7wyBJCbyQIpaIkY2oIfkzQrCl8kAme20nzIl78DdiiQytxBgpM9ALdQfH4ERcC6PJjFwVXpcSJdszoo9bsZMoIBVauu7BktXJtWjCb5KJI3oMApc99n2yT28aoxe8SfzFEezWe2FKt2T5S4mMG4wnMPXOae9eA07DlHTNPaojm8hjMTm9ZdHvwG3UXRNHQXjYeWNz22cD7/pWWn1EdIYiP4iReYERvIxizNUDBmExxLmALymNeSD39SsLLFOttphgd0uAVILb18H1OGhOm7ojt8e31VLxbuhyBzjraA1IK9ey1tIusKblL jovyan@72bfd5a18916
-|3,0,0,1,1,0,1573916353,"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxZWw87pyEHqilROa49QIsD+L7AiBS4B7wyBJCbyQIpaIkY2oIfkzQrCl8kAme20nzIl78DdiiQytxBgpM9ALdQfH4ERcC6PJjFwVXpcSJdszoo9bsZMoIBVauu7BktXJtWjCb5KJI3oMApc99n2yT28aoxe8SfzFEezWe2FKt2T5S4mMG4wnMPXOae9eA07DlHTNPaojm8hjMTm9ZdHvwG3UXRNHQXjYeWNz22cD7/pWWn1EdIYiP4iReYERvIxizNUDBmExxLmALymNeSD39SsLLFOttphgd0uAVILb18H1OGhOm7ojt8e31VLxbuhyBzjraA1IK9ey1tIusKblL jovyan@72bfd5a18916"
-""1	LINE	0
+	export XDG_CONFIG_HOME="$HOME/.config"
+|3,0,0,1,1,0,1573919510,"export XDG_CONFIG_HOME=\"$HOME/.config\""
+"1	LINE	0
 	403
 <ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDPQPFzXNinLfxZAhhUygTwebe3cGrLkLkK7SNKdXA4YpHhB34DdnAHRqtQpSVynLjlKdPU9ovifd52u8rGpT7/VEJa0JOoxTzwO4siz5zFBa/75TaOsHEfDE/k0177/huTETgAxOF6elMDonYdGlWRU/ix5c0kEXxXoR14BjbqtPk9b0U8Aq8P1QBNBIDxQdOLVQT10q4NqYlDAUs9rFJ5eehatMMv1dQai7Q731VE69fSLGrB4NzVRkg5EYU8cRXa5YHER036T0jkFRr1+dykk3w9kgfTqPlpnthL3aBZubmttToB4bsPidNqRlWJ3LYvCCZHncvNaK/YwF7sJGI5 jovyan@72bfd5a18916
-|3,1,1,1,1,0,1573919063,"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDPQPFzXNinLfxZAhhUygTwebe3cGrLkLkK7SNKdXA4YpHhB34DdnAHRqtQpSVynLjlKdPU9ovifd52u8rGpT7/VEJa0JOoxTzwO4siz5zFBa/75TaOsHEfDE/k0177/huTETgAxOF6elMDonYdGlWRU/ix5c0kEXxXoR14BjbqtPk9b0U8Aq8P1QBNBIDxQdOLVQT10q4NqYlDAUs9rFJ5eehatMMv1dQai7Q731VE69fSLGrB4NzVRkg5EYU8cRXa5YHER036T0jkFRr1+dykk3w9kgfTqPlpnthL3aBZubmttToB4bsPidNqRlWJ3LYvCCZHncvNaK/YwF7sJGI5 jovyan@72bfd5a18916"
+|3,0,1,1,1,0,1573919063,"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDPQPFzXNinLfxZAhhUygTwebe3cGrLkLkK7SNKdXA4YpHhB34DdnAHRqtQpSVynLjlKdPU9ovifd52u8rGpT7/VEJa0JOoxTzwO4siz5zFBa/75TaOsHEfDE/k0177/huTETgAxOF6elMDonYdGlWRU/ix5c0kEXxXoR14BjbqtPk9b0U8Aq8P1QBNBIDxQdOLVQT10q4NqYlDAUs9rFJ5eehatMMv1dQai7Q731VE69fSLGrB4NzVRkg5EYU8cRXa5YHER036T0jkFRr1+dykk3w9kgfTqPlpnthL3aBZubmttToB4bsPidNqRlWJ3LYvCCZHncvNaK/YwF7sJGI5 jovyan@72bfd5a18916"
 "2	LINE	0
 	403
 <ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxZWw87pyEHqilROa49QIsD+L7AiBS4B7wyBJCbyQIpaIkY2oIfkzQrCl8kAme20nzIl78DdiiQytxBgpM9ALdQfH4ERcC6PJjFwVXpcSJdszoo9bsZMoIBVauu7BktXJtWjCb5KJI3oMApc99n2yT28aoxe8SfzFEezWe2FKt2T5S4mMG4wnMPXOae9eA07DlHTNPaojm8hjMTm9ZdHvwG3UXRNHQXjYeWNz22cD7/pWWn1EdIYiP4iReYERvIxizNUDBmExxLmALymNeSD39SsLLFOttphgd0uAVILb18H1OGhOm7ojt8e31VLxbuhyBzjraA1IK9ey1tIusKblL jovyan@74bfd5a18916
@@ -6923,39 +6922,63 @@ $dropq
 "w	CHAR	0
 	Hi jj
 |3,0,32,0,1,0,0,"Hi jj"
-"-	CHAR	0
-	p
-|3,0,36,0,1,0,1573912873,"p"
+""-	CHAR	0
+	setting
+|3,1,36,0,1,0,1573919940,"setting"
 
 # File marks:
 'M  64  12  ~/.vimrc_sub/.vimrc_Neobundle
 |4,77,64,12,0,"~/.vimrc_sub/.vimrc_Neobundle"
 'V  4  0  ~/.vimrc
 |4,86,4,0,0,"~/.vimrc"
-'0  1  1  ~/.ssh/id_rsa.pub
-|4,48,1,1,1573919107,"~/.ssh/id_rsa.pub"
-'1  1  80  ~/.ssh/id_rsa.pub
-|4,49,1,80,1573916650,"~/.ssh/id_rsa.pub"
-'2  18  3  ~/.gitignore
-|4,50,18,3,1573916010,"~/.gitignore"
-'3  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
-|4,51,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
-'4  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,52,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
-'5  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,53,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
-'6  89  32  ~/vim_setting/.vimrc_Neobundle
-|4,54,89,32,1573846424,"~/vim_setting/.vimrc_Neobundle"
-'7  11  49  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,55,11,49,1573844112,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
-'8  11  49  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,56,11,49,1573844112,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
+'0  8  36  ~/.git/config
+|4,48,8,36,1573919947,"~/.git/config"
+'1  2  23  ~/.zshrc
+|4,49,2,23,1573919873,"~/.zshrc"
+'2  1  1  ~/.ssh/id_rsa.pub
+|4,50,1,1,1573919107,"~/.ssh/id_rsa.pub"
+'3  1  80  ~/.ssh/id_rsa.pub
+|4,51,1,80,1573916650,"~/.ssh/id_rsa.pub"
+'4  18  3  ~/.gitignore
+|4,52,18,3,1573916010,"~/.gitignore"
+'5  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,53,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
+'6  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
+|4,54,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
+'7  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
+|4,55,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
+'8  89  32  ~/vim_setting/.vimrc_Neobundle
+|4,56,89,32,1573846424,"~/vim_setting/.vimrc_Neobundle"
 '9  11  49  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
 |4,57,11,49,1573844112,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
 
 # Jumplist (newest first):
+-'  8  36  ~/.git/config
+|4,39,8,36,1573919947,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1573919932,"~/.git/config"
+-'  2  23  ~/.zshrc
+|4,39,2,23,1573919873,"~/.zshrc"
+-'  2  23  ~/.zshrc
+|4,39,2,23,1573919873,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1573919472,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1573919472,"~/.zshrc"
 -'  1  1  ~/.ssh/id_rsa.pub
 |4,39,1,1,1573919107,"~/.ssh/id_rsa.pub"
+-'  1  1  ~/.ssh/id_rsa.pub
+|4,39,1,1,1573919107,"~/.ssh/id_rsa.pub"
+-'  1  1  ~/.ssh/id_rsa.pub
+|4,39,1,1,1573919107,"~/.ssh/id_rsa.pub"
+-'  1  1  ~/.ssh/id_rsa.pub
+|4,39,1,1,1573919107,"~/.ssh/id_rsa.pub"
+-'  1  80  ~/.ssh/id_rsa.pub
+|4,39,1,80,1573916650,"~/.ssh/id_rsa.pub"
+-'  1  80  ~/.ssh/id_rsa.pub
+|4,39,1,80,1573916650,"~/.ssh/id_rsa.pub"
+-'  1  80  ~/.ssh/id_rsa.pub
+|4,39,1,80,1573916650,"~/.ssh/id_rsa.pub"
 -'  1  80  ~/.ssh/id_rsa.pub
 |4,39,1,80,1573916650,"~/.ssh/id_rsa.pub"
 -'  18  3  ~/.gitignore
@@ -6966,6 +6989,54 @@ $dropq
 |4,39,18,3,1573916010,"~/.gitignore"
 -'  18  3  ~/.gitignore
 |4,39,18,3,1573916010,"~/.gitignore"
+-'  18  3  ~/.gitignore
+|4,39,18,3,1573916010,"~/.gitignore"
+-'  18  3  ~/.gitignore
+|4,39,18,3,1573916010,"~/.gitignore"
+-'  18  3  ~/.gitignore
+|4,39,18,3,1573916010,"~/.gitignore"
+-'  18  3  ~/.gitignore
+|4,39,18,3,1573916010,"~/.gitignore"
+-'  18  3  ~/.gitignore
+|4,39,18,3,1573916010,"~/.gitignore"
+-'  18  3  ~/.gitignore
+|4,39,18,3,1573916010,"~/.gitignore"
+-'  18  3  ~/.gitignore
+|4,39,18,3,1573916010,"~/.gitignore"
+-'  18  3  ~/.gitignore
+|4,39,18,3,1573916010,"~/.gitignore"
+-'  18  3  ~/.gitignore
+|4,39,18,3,1573916010,"~/.gitignore"
+-'  18  3  ~/.gitignore
+|4,39,18,3,1573916010,"~/.gitignore"
+-'  18  3  ~/.gitignore
+|4,39,18,3,1573916010,"~/.gitignore"
+-'  18  3  ~/.gitignore
+|4,39,18,3,1573916010,"~/.gitignore"
+-'  16  7  ~/.gitignore
+|4,39,16,7,1573913473,"~/.gitignore"
+-'  16  7  ~/.gitignore
+|4,39,16,7,1573913473,"~/.gitignore"
+-'  16  7  ~/.gitignore
+|4,39,16,7,1573913473,"~/.gitignore"
+-'  16  7  ~/.gitignore
+|4,39,16,7,1573913473,"~/.gitignore"
+-'  16  7  ~/.gitignore
+|4,39,16,7,1573913473,"~/.gitignore"
+-'  16  7  ~/.gitignore
+|4,39,16,7,1573913473,"~/.gitignore"
+-'  16  7  ~/.gitignore
+|4,39,16,7,1573913473,"~/.gitignore"
+-'  16  7  ~/.gitignore
+|4,39,16,7,1573913473,"~/.gitignore"
+-'  16  7  ~/.gitignore
+|4,39,16,7,1573913473,"~/.gitignore"
+-'  16  7  ~/.gitignore
+|4,39,16,7,1573913473,"~/.gitignore"
+-'  16  7  ~/.gitignore
+|4,39,16,7,1573913473,"~/.gitignore"
+-'  16  7  ~/.gitignore
+|4,39,16,7,1573913473,"~/.gitignore"
 -'  16  7  ~/.gitignore
 |4,39,16,7,1573913473,"~/.gitignore"
 -'  16  7  ~/.gitignore
@@ -6982,6 +7053,54 @@ $dropq
 |4,39,14,6,1573913428,"~/.gitignore"
 -'  14  6  ~/.gitignore
 |4,39,14,6,1573913428,"~/.gitignore"
+-'  14  6  ~/.gitignore
+|4,39,14,6,1573913428,"~/.gitignore"
+-'  14  6  ~/.gitignore
+|4,39,14,6,1573913428,"~/.gitignore"
+-'  14  6  ~/.gitignore
+|4,39,14,6,1573913428,"~/.gitignore"
+-'  14  6  ~/.gitignore
+|4,39,14,6,1573913428,"~/.gitignore"
+-'  14  6  ~/.gitignore
+|4,39,14,6,1573913428,"~/.gitignore"
+-'  14  6  ~/.gitignore
+|4,39,14,6,1573913428,"~/.gitignore"
+-'  14  6  ~/.gitignore
+|4,39,14,6,1573913428,"~/.gitignore"
+-'  14  6  ~/.gitignore
+|4,39,14,6,1573913428,"~/.gitignore"
+-'  14  6  ~/.gitignore
+|4,39,14,6,1573913428,"~/.gitignore"
+-'  14  6  ~/.gitignore
+|4,39,14,6,1573913428,"~/.gitignore"
+-'  14  6  ~/.gitignore
+|4,39,14,6,1573913428,"~/.gitignore"
+-'  14  6  ~/.gitignore
+|4,39,14,6,1573913428,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1573912809,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1573912809,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1573912809,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1573912809,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1573912809,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1573912809,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1573912809,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1573912809,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1573912809,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1573912809,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1573912809,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1573912809,"~/.gitignore"
 -'  2  0  ~/.gitignore
 |4,39,2,0,1573912809,"~/.gitignore"
 -'  2  0  ~/.gitignore
@@ -7006,156 +7125,60 @@ $dropq
 |4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
 -'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
 |4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  29  7  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,29,7,1573873306,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573873305,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py
-|4,39,1,0,1573848229,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/SA_SQA_test.py"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,1,0,1573846490,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  10  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,10,0,1573846480,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  9  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,9,0,1573846480,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  10  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,10,0,1573846480,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  9  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,9,0,1573846480,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  10  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,10,0,1573846480,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  9  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,9,0,1573846480,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  10  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,10,0,1573846480,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  9  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,9,0,1573846480,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  10  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,10,0,1573846480,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
--'  9  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]
-|4,39,9,0,1573846480,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/[quickrun output]"
+-'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
+-'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
+-'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
+-'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
+-'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
+-'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
+-'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
+-'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
+-'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
+-'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
+-'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
+-'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
+-'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
+-'  1  0  ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore
+|4,39,1,0,1573912801,"~/notebook/jupyter/jij_project/5G-optimize-notebook-master/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/config
+	*	1573919946	0
+	"	8	36
+	^	8	37
+	.	8	36
+	+	8	36
+
+> ~/.zshrc
+	*	1573919538	0
+	"	2	23
+	^	2	24
+	.	2	23
+	+	1	38
+	+	28	0
+	+	6	0
+	+	4	0
+	+	6	14
+	+	16	0
+	+	28	19
+	+	1	0
+	+	3	24
+	+	28	20
+	+	2	23
 
 > ~/.ssh/id_rsa.pub
 	*	1573919100	0
@@ -7569,22 +7592,6 @@ $dropq
 > ~/.vim/bundle/.neobundle/doc/vimproc.txt
 	*	1573737834	0
 	"	105	0
-
-> ~/.zshrc
-	*	1573737305	0
-	"	1	0
-	^	27	21
-	.	27	20
-	+	1	38
-	+	27	0
-	+	5	0
-	+	3	0
-	+	5	14
-	+	15	0
-	+	27	19
-	+	1	0
-	+	2	24
-	+	27	20
 
 > ~/notebook/jupyter/jij_project/5G-optimize-notebook-master/Makefile
 	*	1573737287	0
@@ -9299,8 +9306,3 @@ $dropq
 	+	77	0
 	+	72	0
 	+	62	0
-
-> ~/Dropbox/Docker_folder/study_circleci/.circleci/config.yml
-	"	1	0
-	.	1	0
-	+	1	0
